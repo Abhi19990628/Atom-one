@@ -6,8 +6,8 @@ import threading
 # MQTT Broker settings
 BROKER = "broker.hivemq.com"  # Public MQTT broker
 PORT = 1883
-TOPIC_TEMP = "abhi/temperature"
-TOPIC_HUM = "abhi/humidity"
+TOPIC_TEMP = "Atom/temperature"
+TOPIC_HUM = "Atom/humidity"
 
 # MQTT Client setup
 client = mqtt.Client()
