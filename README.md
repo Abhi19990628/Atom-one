@@ -13,7 +13,6 @@ This project demonstrates a simple IoT system where a Python script simulates ra
 Atom-one/
 │
 ├── data_generator.py # Publishes random sensor data to MQTT broker
-├── node_red_flow.json # Node-RED flow for dashboard visualization
 └── README.md # Project documentation
 ```
 
